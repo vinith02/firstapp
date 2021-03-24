@@ -8,7 +8,7 @@ function App() {
       <br/>
     hi this my first app
     <br/>
-    <button style={{backgroundColor:'GrayText'}}>click me</button> 
+    <button style={{backgroundColor:'darkgrey'}}>click me</button> 
     </div>
   );
 }
