@@ -3,10 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Doordash from "./exp/doordash";
+
+
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Doordash/>
   </React.StrictMode>,
   document.getElementById('root')
 );
